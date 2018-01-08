@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/7-4 mask.unity
+  isLoaded: 1
+  isActive: 1
