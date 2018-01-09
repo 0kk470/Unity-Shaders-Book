@@ -94,10 +94,13 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
+     <None Include="Assets\Shaders\Chapter8-alphaTest\AlphaTest.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\LutGen.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
+     <None Include="Assets\Shaders\Chapter8-AlphaBlend\ZWriteOn.shader" />
+     <None Include="Assets\Shaders\Chapter8-alphaTest\AlphaTestBothSide.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ACES.cginc" />
      <None Include="Assets\Shaders\Chapter6-HalfLambert\Chapter6-HalfLambert.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
@@ -112,6 +115,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA3.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+     <None Include="Assets\Shaders\Chapter8-AlphaBlend\BothSideBlend.shader" />
      <None Include="Assets\Shaders\Chapter5-SimpleShader\Chapter5-SimpleShader.shader" />
      <None Include="Assets\Shaders\Chapter6-DiffuseVertexLevel\Chapter6-DiffuseVertexLevel.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
@@ -124,6 +128,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
+     <None Include="Assets\Shaders\Chapter8-AlphaBlend\AlphaBlend.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\GrainGen.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA.shader" />
