@@ -97,6 +97,7 @@
      <None Include="Assets\Shaders\Chapter8-alphaTest\AlphaTest.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\LutGen.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
+     <None Include="Assets\Shaders\Chapter9-ForwardRendering\ForWardRendering.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
      <None Include="Assets\Shaders\Chapter8-AlphaBlend\ZWriteOn.shader" />
@@ -119,8 +120,10 @@
      <None Include="Assets\Shaders\Chapter5-SimpleShader\Chapter5-SimpleShader.shader" />
      <None Include="Assets\Shaders\Chapter6-DiffuseVertexLevel\Chapter6-DiffuseVertexLevel.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+     <None Include="Assets\Shaders\Chapter11-ImageSequence\ImageSequenceAnimation.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
      <None Include="Assets\Shaders\Chapter7-MaskTexture\MaskTexture.shader" />
+     <None Include="Assets\Shaders\Chapter11-BillBoard\BillBoard.shader" />
      <None Include="Assets\Shaders\Chapter6-Specualr Vertex\SpecularVertexLevel.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\Trackball.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
@@ -130,6 +133,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
      <None Include="Assets\Shaders\Chapter8-AlphaBlend\AlphaBlend.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
+     <None Include="Assets\Shaders\Chapter11-ScrollBackGround\ScrollBackground.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\GrainGen.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\FXAA.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
@@ -138,6 +142,7 @@
      <None Include="Assets\Shaders\Chapter7-RampTexture\RampTexture.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
      <None Include="Assets\Shaders\Chapter7-Normal Texture\NormalMapWorldSpace.shader" />
+     <None Include="Assets\Shaders\Chapter11-VertexAnim\Water.shader" />
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />

@@ -1,6 +1,4 @@
-﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
-
-Shader "Unity Shader Book/Chapter 8/AlphaTest"
+﻿Shader "Unity Shader Book/Chapter 8/AlphaTest"
 {
 	Properties
 	{

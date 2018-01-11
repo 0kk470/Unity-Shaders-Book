@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
-Shader "Unity/Chapter 8/AlphaBlend"
+Shader "Unity Shader Book/Chapter 8/AlphaBlendBothSide"
 {
 	Properties
 	{
